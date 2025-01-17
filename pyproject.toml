@@ -1,6 +1,6 @@
 [project]
 name = "burstylimiter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Bursty Ratelimiter for Python. It allows two Limiters with different rates to be combined. Started as a limiter for my SpaceTradersAPI client."
 license = { file = "LICENSE" }
 authors = [{ name = "Felix Baumkötter (feba66)", email = "feba66@web.de" }]
@@ -25,8 +25,8 @@ classifiers = [
     "License :: OSI Approved :: GNU Affero General Public License v3",
 ]
 [project.urls]
-repository = "https://github.com/feba66/BurstyLimiter"
-"Bug Tracker" = "https://github.com/feba66/BurstyLimiter/issues"
+Repository = "https://github.com/feba66/BurstyLimiter"
+Issues = "https://github.com/feba66/BurstyLimiter/issues"
 
 
 [build-system]
